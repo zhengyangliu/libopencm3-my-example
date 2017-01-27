@@ -1,0 +1,1851 @@
+Archive member included to satisfy reference by file (symbol)
+
+../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                              usart_stdio.o (rcc_clock_setup_hse_3v3)
+../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+                              usart_stdio.o (gpio_toggle)
+../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+                              usart_stdio.o (gpio_mode_setup)
+../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+                              usart_stdio.o (usart_set_baudrate)
+../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+                              ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o) (usart_send)
+../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+                              ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o) (flash_set_ws)
+../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+                              usart_stdio.o (rcc_periph_clock_enable)
+../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                              (reset_handler)
+../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+                              delay.o (systick_set_reload)
+../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+                              ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o) (pwr_set_vos_scale)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atoi.o)
+                              usart_stdio.o (atoi)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o)
+                              usart_stdio.o (fflush)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fgets.o)
+                              usart_stdio.o (fgets)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o) (__sinit)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-freer.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o) (_free_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fwalk.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o) (_fwalk)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o) (_global_impure_ptr)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+                              usart_stdio.o (__locale_ctype_ptr)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o) (_malloc_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mbtowc_r.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o) (__ascii_mbtowc)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memchr.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fgets.o) (memchr)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fgets.o) (memcpy)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o) (memset)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mlock.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-freer.o) (__malloc_lock)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-printf.o)
+                              usart_stdio.o (printf)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-puts.o)
+                              usart_stdio.o (puts)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-refill.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fgets.o) (__srefill_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-sbrkr.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-freer.o) (_sbrk_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o) (__sread)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strcmp.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o) (strcmp)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strlen.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-puts.o) (strlen)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strtol.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atoi.o) (_strtol_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-printf.o) (_vfprintf_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wctomb_r.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o) (__ascii_wctomb)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-writer.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o) (_write_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wsetup.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o) (__swsetup_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-closer.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o) (_close_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-ctype_.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o) (_ctype_)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o) (_dtoa_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fclose.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o) (_fclose_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fvwrite.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-puts.o) (__sfvwrite_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-localeconv.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o) (_localeconv_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-lseekr.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o) (_lseek_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-makebuf.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-refill.o) (__smakebuf_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fvwrite.o) (memmove)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o) (_Balloc)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-readr.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o) (_read_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reallocr.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reent.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-sbrkr.o) (errno)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o) (__sprint_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-callocr.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o) (_calloc_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fputwc.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o) (_fputwc_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fstatr.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-makebuf.o) (_fstat_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-isattyr.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-makebuf.o) (_isatty_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wbuf.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fputwc.o) (__swbuf_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wcrtomb.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fputwc.o) (_wcrtomb_r)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o) (__aeabi_dsub)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o) (__aeabi_dmul)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o) (__aeabi_dcmpeq)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_unorddf2.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o) (__aeabi_dcmpun)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o) (__aeabi_uldivmod)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_dvmd_tls.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(close.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-closer.o) (_close)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(fstat.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fstatr.o) (_fstat)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(isatty.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-isattyr.o) (_isatty)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(lseek.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-lseekr.o) (_lseek)
+/home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+                              /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-sbrkr.o) (_sbrk)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 delay.o
+ .data          0x00000000        0x0 delay.o
+ .bss           0x00000000        0x0 delay.o
+ .text          0x00000000        0x0 usart_stdio.o
+ .data          0x00000000        0x0 usart_stdio.o
+ .bss           0x00000000        0x0 usart_stdio.o
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .data          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .bss           0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_osc_ready_int_clear
+                0x00000000       0x5c ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_osc_ready_int_enable
+                0x00000000       0x5c ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_osc_ready_int_disable
+                0x00000000       0x5c ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_osc_ready_int_flag
+                0x00000000       0x60 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_css_int_clear
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_css_int_flag
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_wait_for_sysclk_status
+                0x00000000       0x38 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_css_enable
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_css_disable
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_osc_bypass_enable
+                0x00000000       0x28 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_osc_bypass_disable
+                0x00000000       0x28 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_pllsai_config
+                0x00000000       0x28 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_pllsai_postscalers
+                0x00000000       0x24 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_set_pll_source
+                0x00000000       0x14 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_set_rtcpre
+                0x00000000       0x14 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_set_main_pll_hsi
+                0x00000000       0x40 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_system_clock_source
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .rodata.rcc_hse_16mhz_3v3
+                0x00000000       0x70 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .rodata.rcc_hse_12mhz_3v3
+                0x00000000       0x70 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .rodata.rcc_hse_25mhz_3v3
+                0x00000000       0x70 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .data          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .bss           0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_set
+                0x00000000        0x4 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_clear
+                0x00000000        0x6 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_get
+                0x00000000        0x6 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_port_read
+                0x00000000        0x6 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_port_write
+                0x00000000        0x4 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_port_config_lock
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00000000      0x874 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x44 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0xe3 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00000000      0x1df ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0xfa ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00000000       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00000000      0x26d ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .text          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .data          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .bss           0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .text.gpio_set_output_options
+                0x00000000       0x36 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000      0x874 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000       0x44 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000       0xe3 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000      0x1df ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000       0xfa ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000      0x26d ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000       0x76 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000      0x2e6 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x00000000      0x14e ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .data          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .bss           0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text.usart_disable
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text.usart_enable_rx_dma
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text.usart_disable_rx_dma
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text.usart_enable_tx_dma
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text.usart_disable_tx_dma
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text.usart_enable_rx_interrupt
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text.usart_disable_rx_interrupt
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text.usart_enable_tx_interrupt
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text.usart_disable_tx_interrupt
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text.usart_enable_error_interrupt
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .text.usart_disable_error_interrupt
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00000000      0x874 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00000000       0x44 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00000000       0xe3 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00000000      0x1df ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00000000       0xfa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00000000       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00000000      0x26d ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00000000      0xb38 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .text          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .data          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .bss           0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .text.usart_get_flag
+                0x00000000        0xc ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .text.usart_get_interrupt_source
+                0x00000000       0x30 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000      0x874 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000       0x44 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000       0xe3 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000      0x1df ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000       0xfa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000      0x26d ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000       0x8e ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000      0x273 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000       0xa0 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00000000      0xb38 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .text          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .data          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .bss           0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .text.flash_unlock
+                0x00000000       0x24 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .text.flash_lock
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .text.flash_clear_pgperr_flag
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .text.flash_clear_eop_flag
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .text.flash_clear_bsy_flag
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .text.flash_wait_for_last_operation
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000      0x874 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000       0x44 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000       0xe3 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000      0x1df ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000       0xfa ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000      0x26d ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000       0x64 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00000000       0xf4 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .data          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .bss           0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_peripheral_enable_clock
+                0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_peripheral_disable_clock
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_peripheral_reset
+                0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_peripheral_clear_reset
+                0x00000000        0xa ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_periph_clock_disable
+                0x00000000       0x1c ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_periph_reset_pulse
+                0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_periph_reset_hold
+                0x00000000       0x1a ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_periph_reset_release
+                0x00000000       0x1c ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_set_mco
+                0x00000000       0x14 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00000000      0x874 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0x44 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0xe3 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00000000      0x1df ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0xfa ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00000000       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00000000      0x26d ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00000000      0xb38 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .text          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .data          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .bss           0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00000000      0x874 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00000000       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00000000       0x44 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00000000       0xe3 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00000000      0x1df ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00000000       0xfa ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .text          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .data          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .bss           0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .text.systick_get_reload
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .text.systick_get_value
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .text.systick_set_frequency
+                0x00000000       0x3c ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .text.systick_interrupt_disable
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .text.systick_counter_disable
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .text.systick_get_countflag
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .text.systick_clear
+                0x00000000        0xc ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .text.systick_get_calib
+                0x00000000       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_macro   0x00000000      0x874 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_macro   0x00000000       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_macro   0x00000000       0x44 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_macro   0x00000000       0xe3 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_macro   0x00000000      0x1df ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_macro   0x00000000       0xfa ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x00000000        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .text          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .data          0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .bss           0x00000000        0x0 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000      0x874 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000       0x44 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000       0xe3 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000      0x1df ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000       0xfa ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000      0x26d ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000       0x8e ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x00000000       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atoi.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atoi.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atoi.o)
+ .text._atoi_r  0x00000000        0x8 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atoi.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fgets.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fgets.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fgets.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x00000000        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x00000000       0x30 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .text.__sfp    0x00000000       0x88 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .text._cleanup
+                0x00000000       0x14 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x00000000        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x00000000        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x14 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x14 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fwalk.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fwalk.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fwalk.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x00000000       0x40 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+ .text.setlocale
+                0x00000000       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x00000000        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mbtowc_r.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mbtowc_r.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mbtowc_r.o)
+ .text._mbtowc_r
+                0x00000000       0x24 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mbtowc_r.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-printf.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-printf.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-printf.o)
+ .text._printf_r
+                0x00000000       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-printf.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-puts.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-puts.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-puts.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-refill.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-refill.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-refill.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o)
+ .text          0x00000000      0x2dc /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strcmp.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000000       0x68 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000000       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strcmp.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strtol.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strtol.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x00000000       0x24 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strtol.o)
+ .text.strtol_l
+                0x00000000       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strtol.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+ .text.vfprintf
+                0x00000000       0x18 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wctomb_r.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wctomb_r.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wctomb_r.o)
+ .text._wctomb_r
+                0x00000000       0x24 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wctomb_r.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-writer.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-writer.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-writer.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wsetup.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wsetup.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wsetup.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-closer.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-closer.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-closer.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-ctype_.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-ctype_.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-ctype_.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fclose.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fclose.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fclose.o)
+ .text.fclose   0x00000000       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fclose.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fvwrite.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fvwrite.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fvwrite.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-localeconv.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-localeconv.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-localeconv.o)
+ .text.__localeconv_l
+                0x00000000        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-localeconv.o)
+ .text.localeconv
+                0x00000000       0x1c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-localeconv.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-lseekr.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-lseekr.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-lseekr.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-makebuf.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-makebuf.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-makebuf.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .text.__s2b    0x00000000       0x98 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .text.__ulp    0x00000000       0x54 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .text.__b2d    0x00000000       0xd0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .text.__ratio  0x00000000       0x60 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x00000000       0x38 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .text.__copybits
+                0x00000000       0x48 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .text.__any_on
+                0x00000000       0x60 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x00000000       0x28 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-readr.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-readr.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-readr.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reallocr.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reallocr.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reallocr.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reent.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .text._vfiprintf_r
+                0x00000000      0xdfc /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .text.vfiprintf
+                0x00000000       0x18 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .text.__sbprintf
+                0x00000000       0x6c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .rodata.zeroes.7252
+                0x00000000       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .rodata.blanks.7251
+                0x00000000       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .rodata.str1.4
+                0x00000000       0x2f /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-callocr.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-callocr.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-callocr.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fputwc.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fputwc.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fputwc.o)
+ .text.fputwc   0x00000000       0x40 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fputwc.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fstatr.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fstatr.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fstatr.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-isattyr.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-isattyr.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-isattyr.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wbuf.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wbuf.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wbuf.o)
+ .text.__swbuf  0x00000000       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wbuf.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wcrtomb.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wcrtomb.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wcrtomb.o)
+ .text.wcrtomb  0x00000000       0x4c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wcrtomb.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(close.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(close.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(close.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(fstat.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(fstat.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(fstat.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(isatty.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(isatty.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(isatty.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(lseek.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(lseek.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(lseek.o)
+ .text          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x00200000         xr
+ram              0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD delay.o
+LOAD usart_stdio.o
+LOAD ../libopencm3/lib/libopencm3_stm32f4.a
+START GROUP
+LOAD /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+LOAD /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a
+LOAD /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a
+LOAD /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+END GROUP
+
+.text           0x08000000     0x689c
+ *(.vectors)
+ .vectors       0x08000000      0x1ac ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                0x08000000                vector_table
+ *(.text*)
+ .text.sys_tick_handler
+                0x080001ac       0x10 delay.o
+                0x080001ac                sys_tick_handler
+ .text.delay_ms
+                0x080001bc       0x14 delay.o
+                0x080001bc                delay_ms
+ .text.delay_setup
+                0x080001d0       0x20 delay.o
+                0x080001d0                delay_setup
+ .text.back_up  0x080001f0       0x3c usart_stdio.o
+ .text.startup.main
+                0x0800022c      0x114 usart_stdio.o
+                0x0800022c                main
+ .text.get_buffered_line
+                0x08000340      0x10c usart_stdio.o
+                0x08000340                get_buffered_line
+ .text._write   0x0800044c       0x40 usart_stdio.o
+                0x0800044c                _write
+ .text._read    0x0800048c       0x78 usart_stdio.o
+                0x0800048c                _read
+ .text.rcc_is_osc_ready
+                0x08000504       0x5c ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x08000504                rcc_is_osc_ready
+ .text.rcc_wait_for_osc_ready
+                0x08000560       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x08000560                rcc_wait_for_osc_ready
+ .text.rcc_osc_on
+                0x08000570       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x08000570                rcc_osc_on
+ .text.rcc_osc_off
+                0x080005c8       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x080005c8                rcc_osc_off
+ .text.rcc_set_sysclk_source
+                0x08000620       0x14 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x08000620                rcc_set_sysclk_source
+ .text.rcc_set_ppre2
+                0x08000634       0x14 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x08000634                rcc_set_ppre2
+ .text.rcc_set_ppre1
+                0x08000648       0x14 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x08000648                rcc_set_ppre1
+ .text.rcc_set_hpre
+                0x0800065c       0x14 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0800065c                rcc_set_hpre
+ .text.rcc_set_main_pll_hse
+                0x08000670       0x44 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x08000670                rcc_set_main_pll_hse
+ .text.rcc_clock_setup_hse_3v3
+                0x080006b4       0xa8 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x080006b4                rcc_clock_setup_hse_3v3
+ .text.gpio_toggle
+                0x0800075c       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+                0x0800075c                gpio_toggle
+ .text.gpio_mode_setup
+                0x0800076c       0x3a ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+                0x0800076c                gpio_mode_setup
+ .text.gpio_set_af
+                0x080007a6       0x54 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+                0x080007a6                gpio_set_af
+ *fill*         0x080007fa        0x2 
+ .text.usart_set_baudrate
+                0x080007fc       0x30 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+                0x080007fc                usart_set_baudrate
+ .text.usart_set_databits
+                0x0800082c       0x12 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+                0x0800082c                usart_set_databits
+ .text.usart_set_stopbits
+                0x0800083e        0xc ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+                0x0800083e                usart_set_stopbits
+ .text.usart_set_parity
+                0x0800084a        0xc ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+                0x0800084a                usart_set_parity
+ .text.usart_set_mode
+                0x08000856        0xc ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+                0x08000856                usart_set_mode
+ .text.usart_set_flow_control
+                0x08000862        0xc ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+                0x08000862                usart_set_flow_control
+ .text.usart_enable
+                0x0800086e        0xa ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+                0x0800086e                usart_enable
+ .text.usart_send_blocking
+                0x08000878       0x16 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+                0x08000878                usart_send_blocking
+ .text.usart_recv_blocking
+                0x0800088e       0x12 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+                0x0800088e                usart_recv_blocking
+ .text.usart_send
+                0x080008a0        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+                0x080008a0                usart_send
+ .text.usart_recv
+                0x080008a8        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+                0x080008a8                usart_recv
+ .text.usart_wait_send_ready
+                0x080008b0        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+                0x080008b0                usart_wait_send_ready
+ .text.usart_wait_recv_ready
+                0x080008b8        0x8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+                0x080008b8                usart_wait_recv_ready
+ .text.flash_set_ws
+                0x080008c0       0x14 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+                0x080008c0                flash_set_ws
+ .text.rcc_periph_clock_enable
+                0x080008d4       0x1a ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+                0x080008d4                rcc_periph_clock_enable
+ .text.blocking_handler
+                0x080008ee        0x2 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                0x080008ee                dma2_stream1_isr
+                0x080008ee                tim8_brk_tim12_isr
+                0x080008ee                dma1_stream7_isr
+                0x080008ee                usart3_isr
+                0x080008ee                tim7_isr
+                0x080008ee                dma2d_isr
+                0x080008ee                uart8_isr
+                0x080008ee                dma1_stream2_isr
+                0x080008ee                otg_hs_isr
+                0x080008ee                blocking_handler
+                0x080008ee                tim5_isr
+                0x080008ee                rtc_wkup_isr
+                0x080008ee                otg_fs_isr
+                0x080008ee                spi1_isr
+                0x080008ee                i2c3_er_isr
+                0x080008ee                exti2_isr
+                0x080008ee                spi5_isr
+                0x080008ee                usb_fs_wkup_isr
+                0x080008ee                tamp_stamp_isr
+                0x080008ee                can1_rx1_isr
+                0x080008ee                dma2_stream0_isr
+                0x080008ee                usart1_isr
+                0x080008ee                i2c3_ev_isr
+                0x080008ee                usage_fault_handler
+                0x080008ee                can2_rx0_isr
+                0x080008ee                dma1_stream6_isr
+                0x080008ee                can2_rx1_isr
+                0x080008ee                can1_sce_isr
+                0x080008ee                tim1_cc_isr
+                0x080008ee                can1_tx_isr
+                0x080008ee                tim1_up_tim10_isr
+                0x080008ee                sdio_isr
+                0x080008ee                eth_isr
+                0x080008ee                spi6_isr
+                0x080008ee                dma2_stream5_isr
+                0x080008ee                pvd_isr
+                0x080008ee                can1_rx0_isr
+                0x080008ee                rcc_isr
+                0x080008ee                dma2_stream3_isr
+                0x080008ee                flash_isr
+                0x080008ee                uart4_isr
+                0x080008ee                lcd_tft_isr
+                0x080008ee                rtc_alarm_isr
+                0x080008ee                exti15_10_isr
+                0x080008ee                hash_rng_isr
+                0x080008ee                tim1_trg_com_tim11_isr
+                0x080008ee                hard_fault_handler
+                0x080008ee                exti1_isr
+                0x080008ee                i2c1_ev_isr
+                0x080008ee                usart6_isr
+                0x080008ee                spi2_isr
+                0x080008ee                cryp_isr
+                0x080008ee                nvic_wwdg_isr
+                0x080008ee                dma1_stream1_isr
+                0x080008ee                dma2_stream4_isr
+                0x080008ee                exti3_isr
+                0x080008ee                tim3_isr
+                0x080008ee                usart2_isr
+                0x080008ee                sai1_isr
+                0x080008ee                fpu_isr
+                0x080008ee                dma1_stream4_isr
+                0x080008ee                i2c2_er_isr
+                0x080008ee                i2c2_ev_isr
+                0x080008ee                uart5_isr
+                0x080008ee                dma2_stream6_isr
+                0x080008ee                spi4_isr
+                0x080008ee                adc_isr
+                0x080008ee                dma2_stream7_isr
+                0x080008ee                tim8_up_tim13_isr
+                0x080008ee                fsmc_isr
+                0x080008ee                exti4_isr
+                0x080008ee                tim6_dac_isr
+                0x080008ee                dma1_stream3_isr
+                0x080008ee                tim8_trg_com_tim14_isr
+                0x080008ee                mem_manage_handler
+                0x080008ee                lcd_tft_err_isr
+                0x080008ee                can2_tx_isr
+                0x080008ee                exti9_5_isr
+                0x080008ee                tim1_brk_tim9_isr
+                0x080008ee                uart7_isr
+                0x080008ee                can2_sce_isr
+                0x080008ee                tim4_isr
+                0x080008ee                otg_hs_wkup_isr
+                0x080008ee                i2c1_er_isr
+                0x080008ee                dma1_stream0_isr
+                0x080008ee                tim8_cc_isr
+                0x080008ee                dcmi_isr
+                0x080008ee                dma2_stream2_isr
+                0x080008ee                eth_wkup_isr
+                0x080008ee                bus_fault_handler
+                0x080008ee                otg_hs_ep1_out_isr
+                0x080008ee                spi3_isr
+                0x080008ee                dma1_stream5_isr
+                0x080008ee                otg_hs_ep1_in_isr
+                0x080008ee                tim2_isr
+                0x080008ee                exti0_isr
+ .text.null_handler
+                0x080008f0        0x2 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                0x080008f0                null_handler
+                0x080008f0                sv_call_handler
+                0x080008f0                pend_sv_handler
+                0x080008f0                debug_monitor_handler
+                0x080008f0                nmi_handler
+ *fill*         0x080008f2        0x2 
+ .text.reset_handler
+                0x080008f4       0x98 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                0x080008f4                reset_handler
+ .text.systick_set_reload
+                0x0800098c       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+                0x0800098c                systick_set_reload
+ .text.systick_set_clocksource
+                0x0800099c       0x18 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+                0x0800099c                systick_set_clocksource
+ .text.systick_interrupt_enable
+                0x080009b4       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+                0x080009b4                systick_interrupt_enable
+ .text.systick_counter_enable
+                0x080009c4       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+                0x080009c4                systick_counter_enable
+ .text.pwr_set_vos_scale
+                0x080009d4       0x20 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+                0x080009d4                pwr_set_vos_scale
+ .text.atoi     0x080009f4        0x8 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atoi.o)
+                0x080009f4                atoi
+ .text.__sflush_r
+                0x080009fc      0x148 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o)
+                0x080009fc                __sflush_r
+ .text._fflush_r
+                0x08000b44       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o)
+                0x08000b44                _fflush_r
+ .text.fflush   0x08000b70       0x24 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o)
+                0x08000b70                fflush
+ .text._fgets_r
+                0x08000b94       0xa4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fgets.o)
+                0x08000b94                _fgets_r
+ .text.fgets    0x08000c38       0x18 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fgets.o)
+                0x08000c38                fgets
+ .text._cleanup_r
+                0x08000c50        0xc /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+                0x08000c50                _cleanup_r
+ .text.__sinit.part.1
+                0x08000c5c       0xf0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .text.__sinit  0x08000d4c        0xc /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+                0x08000d4c                __sinit
+ .text.__sfp_lock_acquire
+                0x08000d58        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+                0x08000d58                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x08000d5c        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+                0x08000d5c                __sfp_lock_release
+ .text._malloc_trim_r
+                0x08000d60       0x9c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-freer.o)
+                0x08000d60                _malloc_trim_r
+ .text._free_r  0x08000dfc      0x1d0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-freer.o)
+                0x08000dfc                _free_r
+ .text._fwalk   0x08000fcc       0x4c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fwalk.o)
+                0x08000fcc                _fwalk
+ .text._fwalk_reent
+                0x08001018       0x54 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fwalk.o)
+                0x08001018                _fwalk_reent
+ .text.__get_current_locale
+                0x0800106c       0x18 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x08001084       0x1c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+                0x08001084                __locale_mb_cur_max
+ .text.__locale_ctype_ptr_l
+                0x080010a0        0x8 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+                0x080010a0                __locale_ctype_ptr_l
+ .text.__locale_ctype_ptr
+                0x080010a8       0x14 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+                0x080010a8                __locale_ctype_ptr
+ .text._malloc_r
+                0x080010bc      0x570 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+                0x080010bc                _malloc_r
+ .text.__ascii_mbtowc
+                0x0800162c       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mbtowc_r.o)
+                0x0800162c                __ascii_mbtowc
+ *fill*         0x08001658        0x8 
+ .text          0x08001660       0xa0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memchr.o)
+                0x08001660                memchr
+ .text          0x08001700      0x134 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+                0x08001700                memcpy
+ .text.memset   0x08001834       0x9c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+                0x08001834                memset
+ .text.__malloc_lock
+                0x080018d0        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mlock.o)
+                0x080018d0                __malloc_lock
+ .text.__malloc_unlock
+                0x080018d4        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mlock.o)
+                0x080018d4                __malloc_unlock
+ .text.printf   0x080018d8       0x28 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-printf.o)
+                0x080018d8                printf
+ .text._puts_r  0x08001900       0x68 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-puts.o)
+                0x08001900                _puts_r
+ .text.puts     0x08001968       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-puts.o)
+                0x08001968                puts
+ .text.lflush   0x08001978       0x14 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-refill.o)
+ .text.__srefill_r
+                0x0800198c      0x114 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-refill.o)
+                0x0800198c                __srefill_r
+ .text._sbrk_r  0x08001aa0       0x24 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-sbrkr.o)
+                0x08001aa0                _sbrk_r
+ .text.__sread  0x08001ac4       0x24 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o)
+                0x08001ac4                __sread
+ .text.__swrite
+                0x08001ae8       0x3c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o)
+                0x08001ae8                __swrite
+ .text.__sseek  0x08001b24       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o)
+                0x08001b24                __sseek
+ .text.__sclose
+                0x08001b44        0x8 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o)
+                0x08001b44                __sclose
+ *fill*         0x08001b4c       0x34 
+ .text          0x08001b80       0xdc /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strlen.o)
+                0x08001b80                strlen
+ .text._strtol_l.isra.0
+                0x08001c5c      0x138 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strtol.o)
+ .text.strtol   0x08001d94       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strtol.o)
+                0x08001d94                strtol
+ .text._vfprintf_r
+                0x08001dc0     0x1728 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+                0x08001dc0                _vfprintf_r
+ .text.__sbprintf
+                0x080034e8       0x6c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+ .text.__ascii_wctomb
+                0x08003554       0x1c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wctomb_r.o)
+                0x08003554                __ascii_wctomb
+ .text._write_r
+                0x08003570       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-writer.o)
+                0x08003570                _write_r
+ .text.__swsetup_r
+                0x0800359c       0xc8 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wsetup.o)
+                0x0800359c                __swsetup_r
+ .text._close_r
+                0x08003664       0x24 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-closer.o)
+                0x08003664                _close_r
+ .text.quorem   0x08003688      0x128 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o)
+ .text._dtoa_r  0x080037b0      0xe34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o)
+                0x080037b0                _dtoa_r
+ .text._fclose_r
+                0x080045e4       0x84 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fclose.o)
+                0x080045e4                _fclose_r
+ .text.__sfvwrite_r
+                0x08004668      0x304 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fvwrite.o)
+                0x08004668                __sfvwrite_r
+ .text._localeconv_r
+                0x0800496c       0x1c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-localeconv.o)
+                0x0800496c                _localeconv_r
+ .text._lseek_r
+                0x08004988       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-lseekr.o)
+                0x08004988                _lseek_r
+ .text.__swhatbuf_r
+                0x080049b4       0x60 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-makebuf.o)
+                0x080049b4                __swhatbuf_r
+ .text.__smakebuf_r
+                0x08004a14       0x88 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-makebuf.o)
+                0x08004a14                __smakebuf_r
+ .text.memmove  0x08004a9c       0xc8 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+                0x08004a9c                memmove
+ .text._Balloc  0x08004b64       0x4c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08004b64                _Balloc
+ .text._Bfree   0x08004bb0       0x14 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08004bb0                _Bfree
+ .text.__multadd
+                0x08004bc4       0x80 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08004bc4                __multadd
+ .text.__hi0bits
+                0x08004c44       0x40 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08004c44                __hi0bits
+ .text.__lo0bits
+                0x08004c84       0x5c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08004c84                __lo0bits
+ .text.__i2b    0x08004ce0       0x14 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08004ce0                __i2b
+ .text.__multiply
+                0x08004cf4      0x130 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08004cf4                __multiply
+ .text.__pow5mult
+                0x08004e24       0xa0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08004e24                __pow5mult
+ .text.__lshift
+                0x08004ec4       0xb0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08004ec4                __lshift
+ .text.__mcmp   0x08004f74       0x44 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08004f74                __mcmp
+ .text.__mdiff  0x08004fb8      0x114 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08004fb8                __mdiff
+ .text.__d2b    0x080050cc       0xbc /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x080050cc                __d2b
+ .text._read_r  0x08005188       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-readr.o)
+                0x08005188                _read_r
+ .text._realloc_r
+                0x080051b4      0x3e0 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reallocr.o)
+                0x080051b4                _realloc_r
+ .text.__sprint_r.part.0
+                0x08005594       0x78 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .text.__sprint_r
+                0x0800560c       0x14 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+                0x0800560c                __sprint_r
+ .text._calloc_r
+                0x08005620       0x60 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-callocr.o)
+                0x08005620                _calloc_r
+ .text.__fputwc
+                0x08005680       0x98 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fputwc.o)
+                0x08005680                __fputwc
+ .text._fputwc_r
+                0x08005718       0x28 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fputwc.o)
+                0x08005718                _fputwc_r
+ .text._fstat_r
+                0x08005740       0x28 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fstatr.o)
+                0x08005740                _fstat_r
+ .text._isatty_r
+                0x08005768       0x24 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-isattyr.o)
+                0x08005768                _isatty_r
+ .text.__swbuf_r
+                0x0800578c       0xac /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wbuf.o)
+                0x0800578c                __swbuf_r
+ .text._wcrtomb_r
+                0x08005838       0x54 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wcrtomb.o)
+                0x08005838                _wcrtomb_r
+ .text          0x0800588c      0x370 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+                0x0800588c                __aeabi_drsub
+                0x08005894                __aeabi_dsub
+                0x08005894                __subdf3
+                0x08005898                __adddf3
+                0x08005898                __aeabi_dadd
+                0x08005b10                __aeabi_ui2d
+                0x08005b10                __floatunsidf
+                0x08005b30                __floatsidf
+                0x08005b30                __aeabi_i2d
+                0x08005b54                __extendsfdf2
+                0x08005b54                __aeabi_f2d
+                0x08005b90                __aeabi_ul2d
+                0x08005b90                __floatundidf
+                0x08005ba0                __floatdidf
+                0x08005ba0                __aeabi_l2d
+ .text          0x08005bfc      0x424 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+                0x08005bfc                __aeabi_dmul
+                0x08005bfc                __muldf3
+                0x08005e50                __aeabi_ddiv
+                0x08005e50                __divdf3
+ .text          0x08006020      0x110 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+                0x08006020                __gtdf2
+                0x08006020                __gedf2
+                0x08006028                __ltdf2
+                0x08006028                __ledf2
+                0x08006030                __cmpdf2
+                0x08006030                __eqdf2
+                0x08006030                __nedf2
+                0x080060ac                __aeabi_cdrcmple
+                0x080060bc                __aeabi_cdcmple
+                0x080060bc                __aeabi_cdcmpeq
+                0x080060cc                __aeabi_dcmpeq
+                0x080060e0                __aeabi_dcmplt
+                0x080060f4                __aeabi_dcmple
+                0x08006108                __aeabi_dcmpge
+                0x0800611c                __aeabi_dcmpgt
+ .text          0x08006130       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_unorddf2.o)
+                0x08006130                __aeabi_dcmpun
+                0x08006130                __unorddf2
+ .text          0x0800615c       0x50 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+                0x0800615c                __fixdfsi
+                0x0800615c                __aeabi_d2iz
+ .text          0x080061ac       0x30 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+                0x080061ac                __aeabi_uldivmod
+ .text          0x080061dc      0x2e4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+                0x080061dc                __udivmoddi4
+ .text          0x080064c0        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_dvmd_tls.o)
+                0x080064c0                __aeabi_ldiv0
+                0x080064c0                __aeabi_idiv0
+ .text._close   0x080064c4       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(close.o)
+                0x080064c4                _close
+ .text._fstat   0x080064d4       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(fstat.o)
+                0x080064d4                _fstat
+ .text._isatty  0x080064e4       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(isatty.o)
+                0x080064e4                _isatty
+ .text._lseek   0x080064f4       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(lseek.o)
+                0x080064f4                _lseek
+ .text._sbrk    0x08006504       0x1c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+                0x08006504                _sbrk
+                0x08006520                . = ALIGN (0x4)
+ *(.rodata*)
+ .rodata.str1.1
+                0x08006520       0x7c usart_stdio.o
+ .rodata.rcc_hse_8mhz_3v3
+                0x0800659c       0x70 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0800659c                rcc_hse_8mhz_3v3
+ .rodata._global_impure_ptr
+                0x0800660c        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+                0x0800660c                _global_impure_ptr
+ .rodata.str1.4
+                0x08006610        0xe /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+                                 0x12 (size before relaxing)
+ *fill*         0x0800661e        0x2 
+ .rodata.str1.4
+                0x08006620        0x2 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-puts.o)
+ *fill*         0x08006622        0x2 
+ .rodata.zeroes.7273
+                0x08006624       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+ .rodata.str1.4
+                0x08006634       0x42 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+ *fill*         0x08006676        0x2 
+ .rodata.blanks.7272
+                0x08006678       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+ .rodata._ctype_
+                0x08006688      0x101 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-ctype_.o)
+                0x08006688                _ctype_
+ *fill*         0x08006789        0x3 
+ .rodata.str1.4
+                0x0800678c       0x10 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o)
+                                 0x12 (size before relaxing)
+ *fill*         0x0800679c        0x4 
+ .rodata.__mprec_tens
+                0x080067a0       0xc8 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x080067a0                __mprec_tens
+ .rodata.__mprec_bigtens
+                0x08006868       0x28 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x08006868                __mprec_bigtens
+ .rodata.p05.6087
+                0x08006890        0xc /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+                0x0800689c                . = ALIGN (0x4)
+
+.glue_7         0x0800689c        0x0
+ .glue_7        0x0800689c        0x0 linker stubs
+
+.glue_7t        0x0800689c        0x0
+ .glue_7t       0x0800689c        0x0 linker stubs
+
+.vfp11_veneer   0x0800689c        0x0
+ .vfp11_veneer  0x0800689c        0x0 linker stubs
+
+.v4_bx          0x0800689c        0x0
+ .v4_bx         0x0800689c        0x0 linker stubs
+
+.iplt           0x0800689c        0x0
+ .iplt          0x0800689c        0x0 delay.o
+
+.preinit_array  0x0800689c        0x0
+                0x0800689c                . = ALIGN (0x4)
+                0x0800689c                __preinit_array_start = .
+ *(.preinit_array)
+                0x0800689c                __preinit_array_end = .
+
+.init_array     0x0800689c        0x0
+                0x0800689c                . = ALIGN (0x4)
+                0x0800689c                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x0800689c                __init_array_end = .
+
+.fini_array     0x0800689c        0x0
+                0x0800689c                . = ALIGN (0x4)
+                0x0800689c                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x0800689c                __fini_array_end = .
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x0800689c        0x8
+                0x0800689c                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x0800689c        0x8 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+                0x080068a4                __exidx_end = .
+
+.rel.dyn        0x080068a4        0x0
+ .rel.iplt      0x080068a4        0x0 delay.o
+                0x080068a4                . = ALIGN (0x4)
+                0x080068a4                _etext = .
+
+.data           0x20000000      0x9b8 load address 0x080068a4
+                0x20000000                _data = .
+ *(.data*)
+ .data.rcc_ahb_frequency
+                0x20000000        0x4 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x20000000                rcc_ahb_frequency
+ .data.rcc_apb1_frequency
+                0x20000004        0x4 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x20000004                rcc_apb1_frequency
+ .data.rcc_apb2_frequency
+                0x20000008        0x4 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x20000008                rcc_apb2_frequency
+ *fill*         0x2000000c        0x4 
+ .data.impure_data
+                0x20000010      0x428 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000438        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+                0x20000438                _impure_ptr
+ .data.__global_locale
+                0x2000043c      0x16c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+                0x2000043c                __global_locale
+ .data.__malloc_av_
+                0x200005a8      0x408 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+                0x200005a8                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x200009b0        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+                0x200009b0                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x200009b4        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+                0x200009b4                __malloc_sbrk_base
+                0x200009b8                . = ALIGN (0x4)
+                0x200009b8                _edata = .
+                0x080068a4                _data_loadaddr = LOADADDR (.data)
+
+.igot.plt       0x200009b8        0x0 load address 0x0800725c
+ .igot.plt      0x200009b8        0x0 delay.o
+
+.bss            0x200009b8       0xc4 load address 0x0800725c
+ *(.bss*)
+ .bss.system_millis
+                0x200009b8        0x4 delay.o
+                0x200009b8                system_millis
+ .bss.start_ndx
+                0x200009bc        0x2 usart_stdio.o
+ .bss.end_ndx   0x200009be        0x2 usart_stdio.o
+ .bss.buf       0x200009c0       0x80 usart_stdio.o
+ .bss.__malloc_max_total_mem
+                0x20000a40        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+                0x20000a40                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x20000a44        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+                0x20000a44                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x20000a48        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+                0x20000a48                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x20000a4c       0x28 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+                0x20000a4c                __malloc_current_mallinfo
+ .bss.heap_end.4169
+                0x20000a74        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x20000a78        0x4 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reent.o)
+                0x20000a78                errno
+                0x20000a7c                . = ALIGN (0x4)
+                0x20000a7c                _ebss = .
+
+/DISCARD/
+ *(.eh_frame)
+                0x20000a7c                . = ALIGN (0x4)
+                0x20000a7c                end = .
+                0x20020000                PROVIDE (_stack, (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(usart_stdio.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x3941
+ .debug_info    0x00000000      0x159 delay.o
+ .debug_info    0x00000159     0x14bb usart_stdio.o
+ .debug_info    0x00001614      0x953 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_info    0x00001f67      0x22c ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_info    0x00002193      0x1eb ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_info    0x0000237e      0x4cf ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_info    0x0000284d      0x1bb ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_info    0x00002a08      0x11f ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_info    0x00002b27      0x858 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_info    0x0000337f      0x2af ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_info    0x0000362e      0x255 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_info    0x00003883       0xbe ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_abbrev   0x00000000      0xe83
+ .debug_abbrev  0x00000000       0xe2 delay.o
+ .debug_abbrev  0x000000e2      0x37c usart_stdio.o
+ .debug_abbrev  0x0000045e      0x241 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_abbrev  0x0000069f      0x10e ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_abbrev  0x000007ad       0xb7 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_abbrev  0x00000864      0x12b ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_abbrev  0x0000098f       0xb7 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_abbrev  0x00000a46       0x8a ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_abbrev  0x00000ad0       0xc1 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_abbrev  0x00000b91      0x147 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_abbrev  0x00000cd8      0x132 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_abbrev  0x00000e0a       0x79 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_loc      0x00000000     0x10b9
+ .debug_loc     0x00000000       0x21 delay.o
+ .debug_loc     0x00000021      0x322 usart_stdio.o
+ .debug_loc     0x00000343      0x5c0 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_loc     0x00000903       0x84 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_loc     0x00000987       0xcd ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_loc     0x00000a54      0x1ca ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_loc     0x00000c1e       0xd4 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_loc     0x00000cf2       0x3f ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_loc     0x00000d31      0x14a ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_loc     0x00000e7b       0xac ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_loc     0x00000f27      0x192 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+
+.debug_aranges  0x00000000      0x460
+ .debug_aranges
+                0x00000000       0x30 delay.o
+ .debug_aranges
+                0x00000030       0x40 usart_stdio.o
+ .debug_aranges
+                0x00000070       0xf0 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_aranges
+                0x00000160       0x50 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_aranges
+                0x000001b0       0x30 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_aranges
+                0x000001e0       0xb8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_aranges
+                0x00000298       0x48 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_aranges
+                0x000002e0       0x50 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_aranges
+                0x00000330       0x68 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_aranges
+                0x00000398       0x30 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_aranges
+                0x000003c8       0x78 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_aranges
+                0x00000440       0x20 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_ranges   0x00000000      0x3f0
+ .debug_ranges  0x00000000       0x20 delay.o
+ .debug_ranges  0x00000020       0x80 usart_stdio.o
+ .debug_ranges  0x000000a0       0xe0 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_ranges  0x00000180       0x40 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_ranges  0x000001c0       0x20 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_ranges  0x000001e0       0xa8 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_ranges  0x00000288       0x38 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_ranges  0x000002c0       0x40 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_ranges  0x00000300       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_ranges  0x00000358       0x20 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_ranges  0x00000378       0x68 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_ranges  0x000003e0       0x10 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_line     0x00000000     0x293a
+ .debug_line    0x00000000      0x14d delay.o
+ .debug_line    0x0000014d      0x39f usart_stdio.o
+ .debug_line    0x000004ec      0x592 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_line    0x00000a7e      0x36c ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_line    0x00000dea      0x34d ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_line    0x00001137      0x486 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_line    0x000015bd      0x39d ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_line    0x0000195a      0x35c ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_line    0x00001cb6      0x366 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_line    0x0000201c      0x36f ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_line    0x0000238b      0x2f4 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_line    0x0000267f      0x2bb ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_str      0x00000000     0xea17
+ .debug_str     0x00000000      0x19c delay.o
+                                0x229 (size before relaxing)
+ .debug_str     0x0000019c      0xc32 usart_stdio.o
+                                0xe51 (size before relaxing)
+ .debug_str     0x00000dce     0x82d3 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                               0x859d (size before relaxing)
+ .debug_str     0x000090a1     0x1413 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+                               0x5a56 (size before relaxing)
+ .debug_str     0x0000a4b4       0x79 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+                               0x5a78 (size before relaxing)
+ .debug_str     0x0000a52d     0x12ed ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+                               0x8a54 (size before relaxing)
+ .debug_str     0x0000b81a       0x51 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+                               0x888c (size before relaxing)
+ .debug_str     0x0000b86b       0x96 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+                               0x4d93 (size before relaxing)
+ .debug_str     0x0000b901      0x3db ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+                               0x8056 (size before relaxing)
+ .debug_str     0x0000bcdc     0x2a45 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                               0x60c2 (size before relaxing)
+ .debug_str     0x0000e721      0x2f0 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+                               0x39d8 (size before relaxing)
+ .debug_str     0x0000ea11        0x6 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+                               0x4988 (size before relaxing)
+
+.comment        0x00000000       0xde
+ .comment       0x00000000       0x6e delay.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f usart_stdio.o
+ .comment       0x0000006e       0x70 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                                 0x71 (size before relaxing)
+ .comment       0x000000de       0x71 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .comment       0x000000de       0x71 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .comment       0x000000de       0x71 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .comment       0x000000de       0x71 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .comment       0x000000de       0x71 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .comment       0x000000de       0x71 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .comment       0x000000de       0x71 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .comment       0x000000de       0x71 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .comment       0x000000de       0x71 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.ARM.attributes
+                0x00000000       0x37
+ .ARM.attributes
+                0x00000000       0x39 delay.o
+ .ARM.attributes
+                0x00000039       0x39 usart_stdio.o
+ .ARM.attributes
+                0x00000072       0x39 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .ARM.attributes
+                0x000000ab       0x39 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .ARM.attributes
+                0x000000e4       0x39 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .ARM.attributes
+                0x0000011d       0x39 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .ARM.attributes
+                0x00000156       0x39 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .ARM.attributes
+                0x0000018f       0x39 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .ARM.attributes
+                0x000001c8       0x39 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .ARM.attributes
+                0x00000201       0x39 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .ARM.attributes
+                0x0000023a       0x39 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .ARM.attributes
+                0x00000273       0x39 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .ARM.attributes
+                0x000002ac       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x000002e0       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000314       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fgets.o)
+ .ARM.attributes
+                0x00000348       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000037c       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000003b0       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x000003e4       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000418       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x0000044c       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000480       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x000004b4       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000004d4       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000004f4       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000528       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000055c       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-printf.o)
+ .ARM.attributes
+                0x00000590       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-puts.o)
+ .ARM.attributes
+                0x000005c4       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-refill.o)
+ .ARM.attributes
+                0x000005f8       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000062c       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000660       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000680       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x000006b4       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+ .ARM.attributes
+                0x000006e8       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x0000071c       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000750       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x00000784       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x000007b8       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x000007ec       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000820       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x00000854       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x00000888       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-localeconv.o)
+ .ARM.attributes
+                0x000008bc       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x000008f0       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000924       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000958       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x0000098c       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x000009c0       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x000009f4       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000a28       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .ARM.attributes
+                0x00000a5c       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00000a90       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fputwc.o)
+ .ARM.attributes
+                0x00000ac4       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000af8       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x00000b2c       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x00000b60       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wcrtomb.o)
+ .ARM.attributes
+                0x00000b94       0x22 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000bb6       0x22 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000bd8       0x22 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000bfa       0x22 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000c1c       0x22 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000c3e       0x22 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000c60       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000c94       0x22 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000cb6       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(close.o)
+ .ARM.attributes
+                0x00000cea       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(fstat.o)
+ .ARM.attributes
+                0x00000d1e       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(isatty.o)
+ .ARM.attributes
+                0x00000d52       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(lseek.o)
+ .ARM.attributes
+                0x00000d86       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+
+.debug_frame    0x00000000     0x1920
+ .debug_frame   0x00000000       0x4c delay.o
+ .debug_frame   0x0000004c       0xbc usart_stdio.o
+ .debug_frame   0x00000108      0x1ec ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_frame   0x000002f4       0x80 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_frame   0x00000374       0x6c ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_frame   0x000003e0      0x178 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_frame   0x00000558       0x70 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_frame   0x000005c8       0x80 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_frame   0x00000648       0xb0 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_frame   0x000006f8       0x40 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_frame   0x00000738       0xd8 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_frame   0x00000810       0x20 ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_frame   0x00000830       0x30 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atoi.o)
+ .debug_frame   0x00000860       0x6c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fflush.o)
+ .debug_frame   0x000008cc       0x5c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fgets.o)
+ .debug_frame   0x00000928      0x124 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-findfp.o)
+ .debug_frame   0x00000a4c       0x74 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-freer.o)
+ .debug_frame   0x00000ac0       0x54 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x00000b14       0x84 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-locale.o)
+ .debug_frame   0x00000b98       0x58 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000bf0       0x4c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x00000c3c       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000c70       0x30 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000ca0       0x74 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-printf.o)
+ .debug_frame   0x00000d14       0x48 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-puts.o)
+ .debug_frame   0x00000d5c       0x40 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-refill.o)
+ .debug_frame   0x00000d9c       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000dc8       0x88 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-stdio.o)
+ .debug_frame   0x00000e50       0x98 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-strtol.o)
+ .debug_frame   0x00000ee8       0x88 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfprintf.o)
+ .debug_frame   0x00000f70       0x3c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x00000fac       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-writer.o)
+ .debug_frame   0x00000fd8       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wsetup.o)
+ .debug_frame   0x00001004       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-closer.o)
+ .debug_frame   0x00001030       0x88 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x000010b8       0x44 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fclose.o)
+ .debug_frame   0x000010fc       0x68 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x00001164       0x40 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-localeconv.o)
+ .debug_frame   0x000011a4       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x000011d0       0x68 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-makebuf.o)
+ .debug_frame   0x00001238       0x30 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00001268      0x264 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-mprec.o)
+ .debug_frame   0x000014cc       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-readr.o)
+ .debug_frame   0x000014f8       0x60 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00001558       0x58 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-reent.o)
+ .debug_frame   0x000015b0       0xc8 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-vfiprintf.o)
+ .debug_frame   0x00001678       0x28 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-callocr.o)
+ .debug_frame   0x000016a0       0x8c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fputwc.o)
+ .debug_frame   0x0000172c       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fstatr.o)
+ .debug_frame   0x00001758       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-isattyr.o)
+ .debug_frame   0x00001784       0x40 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wbuf.o)
+ .debug_frame   0x000017c4       0x5c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-wcrtomb.o)
+ .debug_frame   0x00001820       0x2c /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000184c       0x34 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00001880       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(close.o)
+ .debug_frame   0x000018a0       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(fstat.o)
+ .debug_frame   0x000018c0       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(isatty.o)
+ .debug_frame   0x000018e0       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(lseek.o)
+ .debug_frame   0x00001900       0x20 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(sbrk.o)
+
+.debug_macro    0x00000000     0x3375
+ .debug_macro   0x00000000       0xf7 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x000000f7      0x874 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000096b       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000098d       0x44 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x000009d1       0xe3 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00000ab4       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00000ad6      0x1df ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00000cb5       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00000cd7       0xfa ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00000dd1       0x16 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00000de7       0x58 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00000e3f      0x26d ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x000010ac      0xb38 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00001be4       0x8e ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00001c72       0x22 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00001c94       0x64 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00001cf8       0xf4 ../libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00001dec       0xc3 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00001eaf       0x76 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00001f25      0x2e6 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000220b      0x14e ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x00002359       0xc3 ../libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000241c       0xdb ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x000024f7       0x8e ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00002585      0x273 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x000027f8       0xa0 ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_all.o)
+ .debug_macro   0x00002898       0xdb ../libopencm3/lib/libopencm3_stm32f4.a(usart_common_f124.o)
+ .debug_macro   0x00002973       0xb4 ../libopencm3/lib/libopencm3_stm32f4.a(flash_common_f234.o)
+ .debug_macro   0x00002a27       0xc0 ../libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x00002ae7       0xc5 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00002bac      0x3a1 ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00002f4d       0x6a ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x00002fb7      0x22c ../libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x000031e3       0x84 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_macro   0x00003267       0x64 ../libopencm3/lib/libopencm3_stm32f4.a(systick.o)
+ .debug_macro   0x000032cb       0xaa ../libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.stab           0x00000000       0x6c
+ .stab          0x00000000       0x24 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(close.o)
+ .stab          0x00000024       0x18 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(fstat.o)
+                                 0x24 (size before relaxing)
+ .stab          0x0000003c       0x18 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(isatty.o)
+                                 0x24 (size before relaxing)
+ .stab          0x00000054       0x18 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(lseek.o)
+                                 0x24 (size before relaxing)
+
+.stabstr        0x00000000       0xe3
+ .stabstr       0x00000000       0xe3 /home/yang/Library/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libnosys.a(close.o)
