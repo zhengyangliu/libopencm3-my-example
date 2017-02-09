@@ -1,6 +1,6 @@
 /**
  * @file blink.c
- * @synopsis  
+ * @synopsis
  * @author Yangliu, 869705086@qq.com
  * @version     V1.1
  * @date 2017-01-25
@@ -12,7 +12,7 @@
 
 /* --------------------------------------------------------------------------*/
 /**
- * @synopsis  gpio_setup     
+ * @synopsis  gpio_setup
  */
 /* ----------------------------------------------------------------------------*/
 static void gpio_setup(void)
@@ -38,7 +38,7 @@ int main(void)
 		gpio_toggle(GPIOG, GPIO13);	/* LED on/off */
 		delay_ms(1000);
 	}
-    
+
 	return 0;
 }
 

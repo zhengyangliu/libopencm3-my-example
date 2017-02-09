@@ -25,7 +25,7 @@
 # 默认是不输出编译信息的，但如果使用 'make V=1' 则会显示所有编译调用
 ifneq ($(V),1)
 Q		:= @
-NULL		:= 2>/dev/null
+NULL	:= 2>/dev/null
 endif
 
 ###############################################################################
@@ -180,7 +180,7 @@ clean:
 # 使用OpenOCD下载hex程序
 %.flash: %.hex
 	@printf "  OPEN_OCD FLASH $<\n"
-	$(Q)$(OOCD) $(OOCDFLAGS) -c "program $(*).hex reset verify exit" 
+	$(Q)$(OOCD) $(OOCDFLAGS) -c "halt program $(*).hex verify reset exit" 
 
 # 使用GDB 通过sdtin/out管道与OpenOCD连接 并在main函数处打断点后运行
 %.debug: %.elf

@@ -23,7 +23,7 @@ ARCH_FLAGS	= -mthumb -mcpu=cortex-m4 $(FP_FLAGS)
 
 OOCD		     := openocd
 OOCD_INTERFACE	 := /usr/local/share/openocd/scripts/interface/stlink-v2.cfg
-OOCD_TARGET	     := /usr/local/share/openocd/scripts/target/stm32f4x_stlink.cfg
+OOCD_TARGET	     := /usr/local/share/openocd/scripts/target/stm32f4x.cfg
 
 ################################################################################
 OPENCM3_DIR := $(TOPDIR)/libopencm3
